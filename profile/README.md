@@ -1,8 +1,4 @@
-# BMHV.org
-
-Welcome to the official GitHub organization of BMHV, a Community-based Mental Health organization dedicated to providing community healing as we fight for Black liberation.
-
-## About Us
+# BMHV
 
 BMHV (Black Mental Health Village) is committed to creating safe spaces and offering support to individuals within our community who are struggling with mental health challenges. Our mission is rooted in the principles of Black liberation, and we believe that mental health is a critical part of the fight for justice and equality.([`https://bmhv.org/about`](https://bmhv.org/about))
 
